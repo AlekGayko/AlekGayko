@@ -1,7 +1,7 @@
 # About Me:
 Hi there, I'm Alek!
 
-- Computer science graduate from the University of Adelaide <img src="" alt="hi" width="30">
+- Computer science graduate from the University of Adelaide
 - Passionate about learning new technologies<br>
 
 ## Featured Project
